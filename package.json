@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://timkleijn.github.io/buurtwinkel/",
+  "homepage": "https://timkleijn.github.io/Buurtwinkel/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
