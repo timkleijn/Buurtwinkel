@@ -1,9 +1,9 @@
 {
-  "name": "buurtwinkel",
+  "name": "onlineshop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://timkleijn.github.io/Buurtwinkel/",
+  "homepage": "https://timkleijn.github.io/Onlineshop/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
