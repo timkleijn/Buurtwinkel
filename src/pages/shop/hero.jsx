@@ -7,7 +7,7 @@ export const Hero = () => {
         <img className='absolute inset-0 object-cover h-full max-h-screen w-screen -z-10 brightness-50' src={neutraal} />
         <div className='max-w-7xl mx-auto flex flex-col justify-center items-center w-full h-full'>
           <h1 className='text-3xl md:text-4xl lg:text-6xl text-white font-extrabold opacity-100 mb-5 text-center'>Waarom kiezen voor de Buurtwinkel?</h1>
-          <h2 className='text-white text-xl lg:text-2xl font-bold mb-5 text-center'>Smaak is voor ons erg belangrijk. Onze producten zijn van hoge kwaliteit en extra vers. Gister geoogst, vandaag op uw bord! De producten worden aan de deur bezorgd, zodat u zonder veel moeite de lekkerste gerechten kunt maken!
+          <h2 className='text-white text-xl lg:text-2xl font-bold mb-5 text-center'>Bestel nu bij de Buurtwinkel!
           </h2>
           <button className='rounded-full bg-primary text-white font-bold px-4 py-2 w-fit text-xl hover:bg-primaryhover' onClick={e => {
             let shop = document.getElementById("shop-scroll-anchor");
